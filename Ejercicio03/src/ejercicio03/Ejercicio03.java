@@ -15,7 +15,17 @@ public class Ejercicio03 {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        // TODO code application logic here
+        int v1 = 10;
+        int v2 = 2;
+        int v3 = 20;
+        int v4 = 1;
+        int v5 = 11;
+
+        System.out.println( (Math.pow(v1, v2)) + Math.sqrt(16) + v3/(v4+v5) );
+
+
+
+
         
     }
     
